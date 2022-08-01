@@ -1,0 +1,294 @@
+*{
+    margin: 0 0;
+}
+.rootdiv {
+    width: 100%;
+    height: auto;
+
+display: flex;
+
+}
+.body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+
+.headdiv {
+    position: fixed;
+    z-index: 10;
+display: flex;
+width: auto;
+height: 90px;
+
+background: #128c7e;
+
+}
+.selectclass {
+    background: #128c7e;
+    color: white;
+}
+
+.img{
+
+    padding-top: 16px;
+    padding-left: 189px;
+    width: 160px;
+
+}
+.menu {
+    margin-left: 90px;
+    width: 910px;
+display: flex;
+
+
+
+
+}
+.m {
+    flex: 1;
+    font-size: 18;
+    font-family: sans-serif;
+    padding-top: 35px;
+    
+   
+
+}
+.bodydiv {
+    width: 100%;
+    height: 800px;
+    display: flex
+    
+
+}
+.fstpart {
+padding-left: 0px;
+padding-top: 75px;
+width: 100%;
+height: 600px;
+
+}
+.fstpart {
+    padding-left: 19px;
+    width: auto;
+    height: 600px;
+    
+    }
+.sndpart {
+    
+    display: flex;
+    padding-left: 0px;
+    width: 100%;
+    height: auto;
+    
+    }
+
+.leftbody{
+margin-right: 50px;
+    margin-left: -23px;
+    margin-top: 37px;
+    height: 750px;
+    width: 50%;
+    
+    background: #D8E8EA;
+}
+.rightbody{
+    display: flex table-column;
+    margin-top: 37px;
+    margin-left: -18px;
+    height: 750px;
+    width: 50%;
+    
+    background: #E7F0E4;
+}
+.content{
+    width: auto;
+    height: 388px;
+    
+    margin-left: 138px;
+    margin-top: 163px;
+    
+}
+.head {
+    line-height: 35px;
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: 100;
+}
+.img1 {
+    margin-right: 330px;
+    margin-top: 65px;
+    float: right;
+    width: 286px;
+    height: 540px;
+}
+.para1 {
+    margin-top: 10px;
+    font-weight: lighter;
+    background-color: white;
+    color: rgb(65, 64, 64);
+    font-family: sans-serif;
+}
+.para2 {
+    margin-top: 10px;
+    font-weight: lighter;
+    background-color: white;
+    color: rgb(124, 124, 124);
+
+}
+.link {
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #1CC4D8;
+}
+.head2div {
+    
+    text-align: center;
+    width: 544px;
+    height: 50px;
+    margin-left: 45px;
+    margin-top: 53px;
+    font-family: sans-serif;
+    font-size: 21px;
+    letter-spacing: 2px;
+    
+}
+.paradiv{
+    width: 500px;
+    height: 100px;
+    margin-left: 77px;
+    
+    margin-top: 10px;
+}
+.lbodyimg{
+    width: 325px;
+    height: 364px;
+    margin-left: 150px;
+    margin-top: 153px;
+    
+}
+.para {
+    text-align: center;
+    font-size: 16px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    
+}
+.anime {
+    margin-top: 60px;
+    margin-left: 10px;
+    width: auto;
+    height: 314px;
+    
+}
+.ani {
+    margin-top: -61px;
+    margin-left: 142px;
+}
+
+.rhead {
+    
+    width: 100pc;
+    height: 150px;
+    
+    
+}
+.rparadiv {
+    width: auto;
+    height: 200px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    margin-top: 60px;
+    margin-left: 55px;
+
+}
+.head2rdiv {
+    
+    text-align: center;
+    width: 544px;
+    height: 50px;
+    margin-left: 45px;
+    margin-top: 53px;
+    font-family: sans-serif;
+    font-size: 21px;
+    letter-spacing: 2px;
+    
+}
+.h4style {
+    font-size: 16px;
+    
+color: rgb(170, 169, 169);
+}
+.buttondiv {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: 125px;
+    padding-top: 0px;
+    margin-top: 30px;
+    
+}
+.buttonsubdiv {
+width: 360px;
+height: 100px;
+
+
+}
+.button1 {
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+}
+.button {
+    background-color: #fcfcfc;
+    border: 2px solid #91DFD3;
+    border-radius: 50px;
+    color: #4F958A;
+    padding: 18px 15px 18px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 26px 89px;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+.listdiv {
+    width: 100%;
+    height: 400px;
+    background:#273443;
+}
+.footerdiv {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 120px;
+    background: black;
+
+}
+.f1 {
+    width: 235px;
+    height: 50px;
+    margin: 48px 75px 16px 119px;
+}
+.listdiv {
+    display: flex;
+    justify-content: space-evenly
+}
+.linkhead {
+    color: white;
+    font-family: sans-serif;
+    margin-top: 60px;
+}
+.linkhead1 {
+    color: white;
+    font-family: sans-serif;
+    padding-bottom: 25px;
+    font-weight: 200;
+    
+}
